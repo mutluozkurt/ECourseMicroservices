@@ -1,0 +1,10 @@
+E:\Projects\ECourseMicroservices\Shared\ECourse.Shared\bin\Debug\netcoreapp3.1\ECourse.Shared.deps.json
+E:\Projects\ECourseMicroservices\Shared\ECourse.Shared\bin\Debug\netcoreapp3.1\ECourse.Shared.dll
+E:\Projects\ECourseMicroservices\Shared\ECourse.Shared\bin\Debug\netcoreapp3.1\ECourse.Shared.pdb
+E:\Projects\ECourseMicroservices\Shared\ECourse.Shared\obj\Debug\netcoreapp3.1\ECourse.Shared.csproj.AssemblyReference.cache
+E:\Projects\ECourseMicroservices\Shared\ECourse.Shared\obj\Debug\netcoreapp3.1\ECourse.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\ECourseMicroservices\Shared\ECourse.Shared\obj\Debug\netcoreapp3.1\ECourse.Shared.AssemblyInfoInputs.cache
+E:\Projects\ECourseMicroservices\Shared\ECourse.Shared\obj\Debug\netcoreapp3.1\ECourse.Shared.AssemblyInfo.cs
+E:\Projects\ECourseMicroservices\Shared\ECourse.Shared\obj\Debug\netcoreapp3.1\ECourse.Shared.csproj.CoreCompileInputs.cache
+E:\Projects\ECourseMicroservices\Shared\ECourse.Shared\obj\Debug\netcoreapp3.1\ECourse.Shared.dll
+E:\Projects\ECourseMicroservices\Shared\ECourse.Shared\obj\Debug\netcoreapp3.1\ECourse.Shared.pdb
