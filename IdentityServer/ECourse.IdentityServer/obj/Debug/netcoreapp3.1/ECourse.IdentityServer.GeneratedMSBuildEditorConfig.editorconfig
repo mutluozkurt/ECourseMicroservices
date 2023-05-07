@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ECourse.IdentityServer
+build_property.ProjectDir = E:\Projects\ECourseMicroservices\IdentityServer\ECourse.IdentityServer\

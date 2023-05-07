@@ -52,3 +52,10 @@ E:\Projects\ECourseMicroservices\Services\Catalog\ECourse.Services.Catalog\bin\D
 E:\Projects\ECourseMicroservices\Services\Catalog\ECourse.Services.Catalog\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
 E:\Projects\ECourseMicroservices\Services\Catalog\ECourse.Services.Catalog\bin\Debug\net5.0\ECourse.Shared.dll
 E:\Projects\ECourseMicroservices\Services\Catalog\ECourse.Services.Catalog\bin\Debug\net5.0\ECourse.Shared.pdb
+E:\Projects\ECourseMicroservices\Services\Catalog\ECourse.Services.Catalog\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Projects\ECourseMicroservices\Services\Catalog\ECourse.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\ECourseMicroservices\Services\Catalog\ECourse.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Projects\ECourseMicroservices\Services\Catalog\ECourse.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\ECourseMicroservices\Services\Catalog\ECourse.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projects\ECourseMicroservices\Services\Catalog\ECourse.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\ECourseMicroservices\Services\Catalog\ECourse.Services.Catalog\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
