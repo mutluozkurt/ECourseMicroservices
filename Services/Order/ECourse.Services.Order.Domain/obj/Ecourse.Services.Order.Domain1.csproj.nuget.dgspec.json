@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Projects\\ECourseMicroservices\\Services\\Order\\Ecourse.Services.Order.Domain\\Ecourse.Services.Order.Domain1.csproj": {}
+  },
+  "projects": {
+    "E:\\Projects\\ECourseMicroservices\\Services\\Order\\ECourse.Services.Order.Domain.Core\\ECourse.Services.Order.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\ECourseMicroservices\\Services\\Order\\ECourse.Services.Order.Domain.Core\\ECourse.Services.Order.Domain.Core.csproj",
+        "projectName": "ECourse.Services.Order.Domain.Core",
+        "projectPath": "E:\\Projects\\ECourseMicroservices\\Services\\Order\\ECourse.Services.Order.Domain.Core\\ECourse.Services.Order.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\mutlu\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\ECourseMicroservices\\Services\\Order\\ECourse.Services.Order.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mutlu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projects\\ECourseMicroservices\\Services\\Order\\Ecourse.Services.Order.Domain\\Ecourse.Services.Order.Domain1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\ECourseMicroservices\\Services\\Order\\Ecourse.Services.Order.Domain\\Ecourse.Services.Order.Domain1.csproj",
+        "projectName": "Ecourse.Services.Order.Domain1",
+        "projectPath": "E:\\Projects\\ECourseMicroservices\\Services\\Order\\Ecourse.Services.Order.Domain\\Ecourse.Services.Order.Domain1.csproj",
+        "packagesPath": "C:\\Users\\mutlu\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\ECourseMicroservices\\Services\\Order\\Ecourse.Services.Order.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mutlu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\Projects\\ECourseMicroservices\\Services\\Order\\ECourse.Services.Order.Domain.Core\\ECourse.Services.Order.Domain.Core.csproj": {
+                "projectPath": "E:\\Projects\\ECourseMicroservices\\Services\\Order\\ECourse.Services.Order.Domain.Core\\ECourse.Services.Order.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

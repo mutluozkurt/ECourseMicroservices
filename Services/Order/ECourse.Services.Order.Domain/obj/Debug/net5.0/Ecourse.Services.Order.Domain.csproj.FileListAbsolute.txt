@@ -1,0 +1,15 @@
+E:\Projects\ECourseMicroservices\Services\Order\Ecourse.Services.Order.Domain\bin\Debug\net5.0\Ecourse.Services.Order.Domain.deps.json
+E:\Projects\ECourseMicroservices\Services\Order\Ecourse.Services.Order.Domain\bin\Debug\net5.0\Ecourse.Services.Order.Domain.dll
+E:\Projects\ECourseMicroservices\Services\Order\Ecourse.Services.Order.Domain\bin\Debug\net5.0\Ecourse.Services.Order.Domain.pdb
+E:\Projects\ECourseMicroservices\Services\Order\Ecourse.Services.Order.Domain\bin\Debug\net5.0\ECourse.Services.Order.Domain.Core.dll
+E:\Projects\ECourseMicroservices\Services\Order\Ecourse.Services.Order.Domain\bin\Debug\net5.0\ECourse.Services.Order.Domain.Core.pdb
+E:\Projects\ECourseMicroservices\Services\Order\Ecourse.Services.Order.Domain\obj\Debug\net5.0\Ecourse.Services.Order.Domain.csproj.AssemblyReference.cache
+E:\Projects\ECourseMicroservices\Services\Order\Ecourse.Services.Order.Domain\obj\Debug\net5.0\Ecourse.Services.Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\ECourseMicroservices\Services\Order\Ecourse.Services.Order.Domain\obj\Debug\net5.0\Ecourse.Services.Order.Domain.AssemblyInfoInputs.cache
+E:\Projects\ECourseMicroservices\Services\Order\Ecourse.Services.Order.Domain\obj\Debug\net5.0\Ecourse.Services.Order.Domain.AssemblyInfo.cs
+E:\Projects\ECourseMicroservices\Services\Order\Ecourse.Services.Order.Domain\obj\Debug\net5.0\Ecourse.Services.Order.Domain.csproj.CoreCompileInputs.cache
+E:\Projects\ECourseMicroservices\Services\Order\Ecourse.Services.Order.Domain\obj\Debug\net5.0\Ecourse.Services.Order.Domain.csproj.CopyComplete
+E:\Projects\ECourseMicroservices\Services\Order\Ecourse.Services.Order.Domain\obj\Debug\net5.0\Ecourse.Services.Order.Domain.dll
+E:\Projects\ECourseMicroservices\Services\Order\Ecourse.Services.Order.Domain\obj\Debug\net5.0\refint\Ecourse.Services.Order.Domain.dll
+E:\Projects\ECourseMicroservices\Services\Order\Ecourse.Services.Order.Domain\obj\Debug\net5.0\Ecourse.Services.Order.Domain.pdb
+E:\Projects\ECourseMicroservices\Services\Order\Ecourse.Services.Order.Domain\obj\Debug\net5.0\ref\Ecourse.Services.Order.Domain.dll
